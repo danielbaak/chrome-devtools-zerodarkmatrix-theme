@@ -1,3 +1,6 @@
+###TODO: reduce theme to highly performant minimal subset without pretty images and animations. 
+
+
 # ZeroDarkMatrix Theme for Chrome
 A highly customized dark theme for Google Chrome.
 
